@@ -1,1 +1,3 @@
-# hw_3
+# vladdlab.github.io
+Spin IT Breaking News
+PeopleLoveCats DEMO
