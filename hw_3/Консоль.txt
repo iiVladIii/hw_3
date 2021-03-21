@@ -1,2 +1,0 @@
-> console.log(commentsArra)
-> console.log(commentsArray)
